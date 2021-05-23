@@ -1,9 +1,9 @@
 # RSS Reader
 This application takes an input, applies conversion commands and outputs the result.
 
-## How to compile
+## How to build
 ```
-kotlinc RssReader.kt -include-runtime -d RssReader.jar
+./gradlew build
 ```
 
 ## How to run
@@ -39,13 +39,13 @@ output: "Arbitrary case-insnot ensitive refernot ence text"
 ## Samples
 * Cut
 ```
-java -jar RssReader.jar -i "/samples/input.txt" -c "cut" -o "/samples/cut.txt"
+java -jar RssReader.jar -i "src/test/resources/input.txt" -c "cut" -o "out/cut.txt"
 ```
-[Input file](./samples/input.txt) <br />
-[Output file](./samples/cut.txt) <br />
+[Input file](./src/test/resources/input.txt) <br />
+[Output file](./out/cut.txt) <br />
 * Replace
 ```
-java -jar RssReader.jar -i "/samples/input.txt" -c "replace(/The Apology Line/REPLACEMENT TEXT/)" -o "/samples/replace.txt"
+java -jar RssReader.jar -i "src/test/resources/input.txt" -c "replace(/The Apology Line/REPLACEMENT TEXT/)" -o "out/replace.txt"
 ```
-[Input file](./samples/input.txt) <br />
-[Output file](./samples/replace.txt)
+[Input file](./src/test/resources/input.txt) <br />
+[Output file](./out/replace.txt)

@@ -1,0 +1,366 @@
+<?xml version="1 encoding="
+<rss version="2 xmlns:itun xmlns:atom xmlns:cont xmlns:art1 xmlns:goog
+  <channel>
+    <title>REPLACEMENT TEXT</titl
+    <descripti
+      <![CDATA[< you could call a number and say you’re sorry, and no one would know…what would you apologize for? For fifteen years, you could call a number in Manhattan and do just that. This is the story of the line, and the man at the other end who became consumed by his own creation. He was known as “Mr. Apology.” As thousands of callers flooded the line, confessing to everything from shopliftin to infidelity drug dealing to murder, Mr. Apology realized he couldn’t just listen. He had to do something, even if it meant risking everything From Wondery the makers of Dr. Death and The Shrink Next Door, comes a story about empathy, deception and obsession. Marissa Bridge, who knew Mr. Apology better than anyone, hosts this six episode series.</p
+    </descript
+    <managingE (Wondery)<
+    <copyright 2021 Wondery, Inc.  All rights reserved</
+    <generator
+    <atom:link href="http rel="self" type="appl />
+    <link>http
+    <itunes:ow
+      <itunes:na
+      <itunes:em
+    </itunes:o
+    <itunes:au
+    <itunes:su
+      <![CDATA[< you could call a number and say you’re sorry, and no one would know…what would you apologize for? For fifteen years, you could call a number in Manhattan and do just that. This is the story of the line, and the man at the other end who became consumed by his own creation. He was known as “Mr. Apology.” As thousands of callers flooded the line, confessing to everything from shopliftin to infidelity drug dealing to murder, Mr. Apology realized he couldn’t just listen. He had to do something, even if it meant risking everything From Wondery the makers of Dr. Death and The Shrink Next Door, comes a story about empathy, deception and obsession. Marissa Bridge, who knew Mr. Apology better than anyone, hosts this six episode series.</p
+    </itunes:s
+    <language>
+    <itunes:ex
+    <itunes:ca text="True Crime" />
+    <itunes:ke true crime,New York City,Binge Worthy Documentar ,Apology Line,Apolo American Life,socie crime,seri killer</it
+    <itunes:ty
+    <itunes:im href="http />
+    <image>
+      <url>https
+      <link>http
+      <title>REPLACEMENT TEXT</titl
+    </image>
+    <item>
+      <title>Won Presents: The Vaping Fix</title
+      <descripti
+        <![CDATA[< young Silicon Valley entreprene set out to rid the world of smoking with an incredible new product. The device stands to disrupt the tobacco industry and make them rich, until it falls into the wrong hands and lives are ruined. From classrooms to hospitals, boardrooms to the Oval Office, what can be done to protect teenagers and is it too late? From Laura Beil, the reporter behind Dr Death and Bad Batch, comes The Vaping Fix, the inside story of the rise of Juul and the making of a crisis.</p to the Vaping Fix: <a href="http rel="noope noreferrer target="_b
+      </descript
+      <itunes:ti Presents: The Vaping Fix</itune
+      <itunes:ep
+      <itunes:su young Silicon Valley entreprene set out to rid the world of smoking with an incredible new product. The device stands to disrupt the tobacco industry and make them rich, until it falls into the wrong hands and lives are ruined. From classrooms to hospitals, boardrooms to the Oval Office, what can be done to protect teenagers and is it too late? From Laura Beil, the reporter behind Dr Death and Bad Batch, comes The Vaping Fix, the inside story of the rise of Juul and the making of a crisis.
+
+Listen to the Vaping Fix: wondery.fm
+      <content:e
+        <![CDATA[< young Silicon Valley entreprene set out to rid the world of smoking with an incredible new product. The device stands to disrupt the tobacco industry and make them rich, until it falls into the wrong hands and lives are ruined. From classrooms to hospitals, boardrooms to the Oval Office, what can be done to protect teenagers and is it too late? From Laura Beil, the reporter behind Dr Death and Bad Batch, comes The Vaping Fix, the inside story of the rise of Juul and the making of a crisis.</p to the Vaping Fix: <a href="http rel="noope noreferrer target="_b
+      </content:
+      <guid isPermaLin
+      <pubDate>T 18 May 2021 07:30:00 -0000</pub
+      <itunes:ex
+      <itunes:im href="http />
+      <itunes:ke True Crime,new york city,Binge Worthy Documentar Line,Apolo American Life,socie CRIME,Seri killer</it
+      <itunes:du
+      <enclosure url="https type="audi length="62 />
+    </item>
+    <item>
+      <title>Int Confrontin Columbine<
+      <descripti
+        <![CDATA[< now: <a href="http rel="noope noreferrer target="_b events of April 20th, 1999 shaped our nation and altered the American narrative. One of America’s deadliest school shootings took place in a small town in Colorado, leaving thirteen dead and another twenty-one severely injured. And it was all broadcast over national tv for the nation to see.&nbsp; second season of&nbsp;<e on one of the most prolific tragedies in American history: t Columbine High School massacre. It was a devastatin example of how easily a place of learning, familiarit and peace can descend into a war zone of chaos in a moment, the teenagers present that day are now adults who bear the mental and physical scars of the carnage they lived through.<e Over, a Columbine survivor who is still living with its aftermath and raising her own children in its shadow, confronts many of the realities, questions and myths that surround the massacre to this day. Amy, through her own experience and by speaking with survivors, investigat classmates reporters on the scene and other important voices, brings a first-pers account of the physical, emotional and spiritual journey that comes along with confrontin the worst day of her life.</p>]
+      </descript
+      <itunes:ti Confrontin Columbine<
+      <itunes:ep
+      <itunes:su now: wondery.fm
+
+The events of April 20th, 1999 shaped our nation and altered the American narrative. One of America’s deadliest school shootings took place in a small town in Colorado, leaving thirteen dead and another twenty-one severely injured. And it was all broadcast over national tv for the nation to see. 
+
+The second season of Confron on one of the most prolific tragedies in American history: t Columbine High School massacre. It was a devastatin example of how easily a place of learning, familiarit and peace can descend into a war zone of chaos in a moment, the teenagers present that day are now adults who bear the mental and physical scars of the carnage they lived through. A Over, a Columbine survivor who is still living with its aftermath and raising her own children in its shadow, confronts many of the realities, questions and myths that surround the massacre to this day. Amy, through her own experience and by speaking with survivors, investigat classmates reporters on the scene and other important voices, brings a first-pers account of the physical, emotional and spiritual journey that comes along with confrontin the worst day of her life.</itu
+      <content:e
+        <![CDATA[< now: <a href="http rel="noope noreferrer target="_b events of April 20th, 1999 shaped our nation and altered the American narrative. One of America’s deadliest school shootings took place in a small town in Colorado, leaving thirteen dead and another twenty-one severely injured. And it was all broadcast over national tv for the nation to see.&nbsp; second season of&nbsp;<e on one of the most prolific tragedies in American history: t Columbine High School massacre. It was a devastatin example of how easily a place of learning, familiarit and peace can descend into a war zone of chaos in a moment, the teenagers present that day are now adults who bear the mental and physical scars of the carnage they lived through.<e Over, a Columbine survivor who is still living with its aftermath and raising her own children in its shadow, confronts many of the realities, questions and myths that surround the massacre to this day. Amy, through her own experience and by speaking with survivors, investigat classmates reporters on the scene and other important voices, brings a first-pers account of the physical, emotional and spiritual journey that comes along with confrontin the worst day of her life.</p>]
+      </content:
+      <guid isPermaLin
+      <pubDate>T 04 May 2021 07:00:00 -0000</pub
+      <itunes:ex
+      <itunes:im href="http />
+      <itunes:du
+      <enclosure url="https type="audi length="88 />
+    </item>
+    <item>
+      <title>And The Calls Live On | 7</title>
+      <descripti
+        <![CDATA[< talks to long time callers and listeners about the making of Apology Line then and now and what the making of this series has meant to her. </p><p>Sup us by supporting our sponsors!< - Sign up for your free trial at <a href="http rel="noope noreferrer target="_b Chef</stro - Go to <a href="http rel="noope noreferrer target="_b </strong>a use code <strong>ap for $90 off, including free shipping.< Fiends</st - Download Best Fiends FREE in the <a href="http rel="noope noreferrer target="_b App Store</str or <a href="http rel="noope noreferrer target="_b Play</stro - Get $100 off your first month of Talkspace with code <strong>AP at <a href="http rel="noope noreferrer target="_b - Receive 50% off your first Care/Of order with code <strong>ap at <a href="http rel="noope noreferrer target="_b - Get Honey for free at <a href="http rel="noope noreferrer target="_b
+      </descript
+      <itunes:ti The Calls Live On</itunes
+      <itunes:ep
+      <itunes:ep
+      <itunes:su talks to long time callers and listeners about the making of Apology Line then and now and what the making of this series has meant to her. 
+
+Support us by supporting our sponsors!
+
+Noom - Sign up for your free trial at Noom.com/A
+
+Green Chef - Go to GreenChef. and use code apology90 for $90 off, including free shipping.
+
+Best Fiends - Download Best Fiends FREE in the Apple App Store or Google Play.
+
+Talkspace - Get $100 off your first month of Talkspace with code APOLOGY at Talkspace.
+
+Care/Of - Receive 50% off your first Care/Of order with code apology50 at TakeCareOf
+
+Honey - Get Honey for free at JoinHoney.
+      <content:e
+        <![CDATA[< talks to long time callers and listeners about the making of Apology Line then and now and what the making of this series has meant to her. </p><p>Sup us by supporting our sponsors!< - Sign up for your free trial at <a href="http rel="noope noreferrer target="_b Chef</stro - Go to <a href="http rel="noope noreferrer target="_b </strong>a use code <strong>ap for $90 off, including free shipping.< Fiends</st - Download Best Fiends FREE in the <a href="http rel="noope noreferrer target="_b App Store</str or <a href="http rel="noope noreferrer target="_b Play</stro - Get $100 off your first month of Talkspace with code <strong>AP at <a href="http rel="noope noreferrer target="_b - Receive 50% off your first Care/Of order with code <strong>ap at <a href="http rel="noope noreferrer target="_b - Get Honey for free at <a href="http rel="noope noreferrer target="_b
+      </content:
+      <guid isPermaLin
+      <pubDate>T 23 Feb 2021 08:05:00 -0000</pub
+      <itunes:ex
+      <itunes:im href="http />
+      <itunes:ke true crime,Bing Worthy Documentar ,Apology Line,true crime,seri killer,soc American Life,Murde York City</itun
+      <itunes:du
+      <enclosure url="https type="audi length="34 />
+    </item>
+    <item>
+      <title>Str Fields Forever | 6</title>
+      <descripti
+        <![CDATA[< death is like an atomic bomb going off in Marissa’s life. She’s left to make sense of his life, and his life’s work. And twenty-fiv years later, Marissa learns the truth about what happened to Richie.</p us by supporting our sponsors!< - Sign up for your free trial at <a href="http rel="noope noreferrer target="_b Chef</stro - Go to <a href="http rel="noope noreferrer target="_b </strong>a use code <strong>ap for $90 off, including free shipping.< Fiends</st - Download Best Fiends FREE in the <a href="http rel="noope noreferrer target="_b App Store</str or <a href="http rel="noope noreferrer target="_b Play</stro - Get $100 off your first month of Talkspace with code <strong>AP at <a href="http rel="noope noreferrer target="_b - Receive 50% off your first Care/Of order with code <strong>ap at <a href="http rel="noope noreferrer target="_b - Get Honey for free at <a href="http rel="noope noreferrer target="_b
+      </descript
+      <itunes:ti Fields Forever</i
+      <itunes:ep
+      <itunes:ep
+      <itunes:su death is like an atomic bomb going off in Marissa’s life. She’s left to make sense of his life, and his life’s work. And twenty-fiv years later, Marissa learns the truth about what happened to Richie.
+
+Support us by supporting our sponsors!
+
+Noom - Sign up for your free trial at Noom.com/A
+
+Green Chef - Go to GreenChef. and use code apology90 for $90 off, including free shipping.
+
+Best Fiends - Download Best Fiends FREE in the Apple App Store or Google Play.
+
+Talkspace - Get $100 off your first month of Talkspace with code APOLOGY at Talkspace.
+
+Care/Of - Receive 50% off your first Care/Of order with code apology50 at TakeCareOf
+
+Honey - Get Honey for free at JoinHoney.
+      <content:e
+        <![CDATA[< death is like an atomic bomb going off in Marissa’s life. She’s left to make sense of his life, and his life’s work. And twenty-fiv years later, Marissa learns the truth about what happened to Richie.</p us by supporting our sponsors!< - Sign up for your free trial at <a href="http rel="noope noreferrer target="_b Chef</stro - Go to <a href="http rel="noope noreferrer target="_b </strong>a use code <strong>ap for $90 off, including free shipping.< Fiends</st - Download Best Fiends FREE in the <a href="http rel="noope noreferrer target="_b App Store</str or <a href="http rel="noope noreferrer target="_b Play</stro - Get $100 off your first month of Talkspace with code <strong>AP at <a href="http rel="noope noreferrer target="_b - Receive 50% off your first Care/Of order with code <strong>ap at <a href="http rel="noope noreferrer target="_b - Get Honey for free at <a href="http rel="noope noreferrer target="_b
+      </content:
+      <guid isPermaLin
+      <pubDate>T 16 Feb 2021 08:05:00 -0000</pub
+      <itunes:ex
+      <itunes:im href="http />
+      <itunes:ke true crime,Bing Worthy Documentar ,Apology Line,true crime,seri killer,soc American Life,Murde York City</itun
+      <itunes:du
+      <enclosure url="https type="audi length="30 />
+    </item>
+    <item>
+      <title>Mrs Apology | 5</title>
+      <descripti
+        <![CDATA[< Richie gone from his life, Allan must reinvent himself and the Line. The community around the Line grows, while being married to Mr Apology becomes ever more challengin you or someone you know is struggling with mental health, here are some additional resources. the National Suicide Prevention Lifeline call 1-800-273- the National Alliance on Mental Illness dial 1-800-950- for the Crisis Text Line Text HOME, H-O-M-E to 741741.</p you or someone you know is experienci intimate partner violence&n here are some additional resources. the National Domestic Violence Hotline call 1-800-799- visit thehotline to chat with someone live at any time. </p><p>Lis to new episodes of REPLACEMENT TEXT early and ad-free by joining Wondery Plus in the Wondery App. - <a href="http rel="noope noreferrer target="_b us by supporting our sponsors!< - Sign up for your free trial at <a href="http rel="noope noreferrer target="_b Chef</stro - Go to <a href="http rel="noope noreferrer target="_b </strong>a use code <strong>ap for $90 off, including free shipping.< Fiends</st - Download Best Fiends FREE in the <a href="http rel="noope noreferrer target="_b App Store</str or <a href="http rel="noope noreferrer target="_b Play</stro - Get $100 off your first month of Talkspace with code <strong>AP at <a href="http rel="noope noreferrer target="_b - Receive 50% off your first Care/Of order with code <strong>ap at <a href="http rel="noope noreferrer target="_b - Get Honey for free at <a href="http rel="noope noreferrer target="_b
+      </descript
+      <itunes:ti Apology</i
+      <itunes:ep
+      <itunes:ep
+      <itunes:su Richie gone from his life, Allan must reinvent himself and the Line. The community around the Line grows, while being married to Mr Apology becomes ever more challengin
+
+If you or someone you know is struggling with mental health, here are some additional resources.
+
+For the National Suicide Prevention Lifeline call 1-800-273-
+
+For the National Alliance on Mental Illness dial 1-800-950-
+
+And for the Crisis Text Line Text HOME, H-O-M-E to 741741.
+
+If you or someone you know is experienci intimate partner violence  here are some additional resources.
+
+For the National Domestic Violence Hotline call 1-800-799-
+
+Or visit thehotline to chat with someone live at any time. 
+
+Listen to new episodes of REPLACEMENT TEXT early and ad-free by joining Wondery Plus in the Wondery App. - https://wo
+
+Support us by supporting our sponsors!
+
+Noom - Sign up for your free trial at Noom.com/A
+
+Green Chef - Go to GreenChef. and use code apology90 for $90 off, including free shipping.
+
+Best Fiends - Download Best Fiends FREE in the Apple App Store or Google Play.
+
+Talkspace - Get $100 off your first month of Talkspace with code APOLOGY at Talkspace.
+
+Care/Of - Receive 50% off your first Care/Of order with code apology50 at TakeCareOf
+
+Honey - Get Honey for free at JoinHoney.
+      <content:e
+        <![CDATA[< Richie gone from his life, Allan must reinvent himself and the Line. The community around the Line grows, while being married to Mr Apology becomes ever more challengin you or someone you know is struggling with mental health, here are some additional resources. the National Suicide Prevention Lifeline call 1-800-273- the National Alliance on Mental Illness dial 1-800-950- for the Crisis Text Line Text HOME, H-O-M-E to 741741.</p you or someone you know is experienci intimate partner violence&n here are some additional resources. the National Domestic Violence Hotline call 1-800-799- visit thehotline to chat with someone live at any time. </p><p>Lis to new episodes of REPLACEMENT TEXT early and ad-free by joining Wondery Plus in the Wondery App. - <a href="http rel="noope noreferrer target="_b us by supporting our sponsors!< - Sign up for your free trial at <a href="http rel="noope noreferrer target="_b Chef</stro - Go to <a href="http rel="noope noreferrer target="_b </strong>a use code <strong>ap for $90 off, including free shipping.< Fiends</st - Download Best Fiends FREE in the <a href="http rel="noope noreferrer target="_b App Store</str or <a href="http rel="noope noreferrer target="_b Play</stro - Get $100 off your first month of Talkspace with code <strong>AP at <a href="http rel="noope noreferrer target="_b - Receive 50% off your first Care/Of order with code <strong>ap at <a href="http rel="noope noreferrer target="_b - Get Honey for free at <a href="http rel="noope noreferrer target="_b
+      </content:
+      <guid isPermaLin
+      <pubDate>T 09 Feb 2021 08:05:00 -0000</pub
+      <itunes:ex
+      <itunes:im href="http />
+      <itunes:ke true crime,Bing Worthy Documentar ,Apology Line,true crime,seri killer,soc American Life,Murde York City</itun
+      <itunes:du
+      <enclosure url="https type="audi length="38 />
+    </item>
+    <item>
+      <title>To Catch A Serial Killer | 4</title>
+      <descripti
+        <![CDATA[< is back and Allan is in over his head this time. Help comes in the form of Detective Ray Pierce. Together they devise a plan to find out who Richie really is.</p><p> to new episodes of REPLACEMENT TEXT early and ad-free by joining Wondery Plus in the Wondery App. - <a href="http rel="noope noreferrer target="_b us by supporting our sponsors!< - Sign up for your free trial at <a href="http rel="noope noreferrer target="_b Chef</stro - Go to <a href="http rel="noope noreferrer target="_b </strong>a use code <strong>ap for $90 off, including free shipping.< Fiends</st - Download Best Fiends FREE in the <a href="http rel="noope noreferrer target="_b App Store</str or <a href="http rel="noope noreferrer target="_b Play</stro - Get $100 off your first month of Talkspace with code <strong>AP at <a href="http rel="noope noreferrer target="_b - Receive 50% off your first Care/Of order with code <strong>ap at <a href="http rel="noope noreferrer target="_b - Get Honey for free at <a href="http rel="noope noreferrer target="_b
+      </descript
+      <itunes:ti Catch A Serial Killer</it
+      <itunes:ep
+      <itunes:ep
+      <itunes:su is back and Allan is in over his head this time. Help comes in the form of Detective Ray Pierce. Together they devise a plan to find out who Richie really is.
+
+Listen to new episodes of REPLACEMENT TEXT early and ad-free by joining Wondery Plus in the Wondery App. - https://wo
+
+Support us by supporting our sponsors!
+
+Noom - Sign up for your free trial at Noom.com/A
+
+Green Chef - Go to GreenChef. and use code apology90 for $90 off, including free shipping.
+
+Best Fiends - Download Best Fiends FREE in the Apple App Store or Google Play.
+
+Talkspace - Get $100 off your first month of Talkspace with code APOLOGY at Talkspace.
+
+Care/Of - Receive 50% off your first Care/Of order with code apology50 at TakeCareOf
+
+Honey - Get Honey for free at JoinHoney.
+      <content:e
+        <![CDATA[< is back and Allan is in over his head this time. Help comes in the form of Detective Ray Pierce. Together they devise a plan to find out who Richie really is.</p><p> to new episodes of REPLACEMENT TEXT early and ad-free by joining Wondery Plus in the Wondery App. - <a href="http rel="noope noreferrer target="_b us by supporting our sponsors!< - Sign up for your free trial at <a href="http rel="noope noreferrer target="_b Chef</stro - Go to <a href="http rel="noope noreferrer target="_b </strong>a use code <strong>ap for $90 off, including free shipping.< Fiends</st - Download Best Fiends FREE in the <a href="http rel="noope noreferrer target="_b App Store</str or <a href="http rel="noope noreferrer target="_b Play</stro - Get $100 off your first month of Talkspace with code <strong>AP at <a href="http rel="noope noreferrer target="_b - Receive 50% off your first Care/Of order with code <strong>ap at <a href="http rel="noope noreferrer target="_b - Get Honey for free at <a href="http rel="noope noreferrer target="_b
+      </content:
+      <guid isPermaLin
+      <pubDate>T 02 Feb 2021 08:05:00 -0000</pub
+      <itunes:ex
+      <itunes:im href="http />
+      <itunes:ke true crime,Bing Worthy Documentar ,Apology Line,true crime,seri killer,soc American Life,Murde York City</itun
+      <itunes:du
+      <enclosure url="https type="audi length="33 />
+    </item>
+    <item>
+      <title>You Dungeon or Mine? | 3</title>
+      <descripti
+        <![CDATA[< details his murders and answers Allan’s many questions on the Line. Allan wants to keep Richie talking. He wants to use REPLACEMENT TEXT as a space to reform and study violent criminals. But will Allan’s efforts be enough?</p to new episodes of REPLACEMENT TEXT early and ad-free by joining Wondery Plus in the Wondery App. - <a href="http rel="noope noreferrer target="_b us by supporting our sponsors!< - Sign up for your free trial at <a href="http rel="noope noreferrer target="_b Chef</stro - Go to <a href="http rel="noope noreferrer target="_b </strong>a use code <strong>ap for $90 off, including free shipping.< Fiends</st - Download Best Fiends FREE in the <a href="http rel="noope noreferrer target="_b App Store</str or <a href="http rel="noope noreferrer target="_b Play</stro - Get $100 off your first month of Talkspace with code <strong>AP at <a href="http rel="noope noreferrer target="_b - Receive 50% off your first Care/Of order with code <strong>ap at <a href="http rel="noope noreferrer target="_b - Get Honey for free at <a href="http rel="noope noreferrer target="_b
+      </descript
+      <itunes:ti Dungeon or Mine?</itu
+      <itunes:ep
+      <itunes:ep
+      <itunes:su details his murders and answers Allan’s many questions on the Line. Allan wants to keep Richie talking. He wants to use REPLACEMENT TEXT as a space to reform and study violent criminals. But will Allan’s efforts be enough?
+
+Listen to new episodes of REPLACEMENT TEXT early and ad-free by joining Wondery Plus in the Wondery App. - https://wo
+
+
+
+
+Support us by supporting our sponsors!
+
+Noom - Sign up for your free trial at Noom.com/A
+
+Green Chef - Go to GreenChef. and use code apology90 for $90 off, including free shipping.
+
+Best Fiends - Download Best Fiends FREE in the Apple App Store or Google Play.
+
+Talkspace - Get $100 off your first month of Talkspace with code APOLOGY at Talkspace.
+
+Care/Of - Receive 50% off your first Care/Of order with code apology50 at TakeCareOf
+
+Honey - Get Honey for free at JoinHoney.
+      <content:e
+        <![CDATA[< details his murders and answers Allan’s many questions on the Line. Allan wants to keep Richie talking. He wants to use REPLACEMENT TEXT as a space to reform and study violent criminals. But will Allan’s efforts be enough?</p to new episodes of REPLACEMENT TEXT early and ad-free by joining Wondery Plus in the Wondery App. - <a href="http rel="noope noreferrer target="_b us by supporting our sponsors!< - Sign up for your free trial at <a href="http rel="noope noreferrer target="_b Chef</stro - Go to <a href="http rel="noope noreferrer target="_b </strong>a use code <strong>ap for $90 off, including free shipping.< Fiends</st - Download Best Fiends FREE in the <a href="http rel="noope noreferrer target="_b App Store</str or <a href="http rel="noope noreferrer target="_b Play</stro - Get $100 off your first month of Talkspace with code <strong>AP at <a href="http rel="noope noreferrer target="_b - Receive 50% off your first Care/Of order with code <strong>ap at <a href="http rel="noope noreferrer target="_b - Get Honey for free at <a href="http rel="noope noreferrer target="_b
+      </content:
+      <guid isPermaLin
+      <pubDate>T 26 Jan 2021 10:00:00 -0000</pub
+      <itunes:ex
+      <itunes:im href="http />
+      <itunes:ke true crime,Bing Worthy Documentar ,Apology Line,true crime,seri killer,soc American Life,Murde York City</itun
+      <itunes:du
+      <enclosure url="https type="audi length="36 />
+    </item>
+    <item>
+      <title>Goi Public | 2</title>
+      <descripti
+        <![CDATA[< as Allan reckons with a frightenin threat, he continues to engage with callers in ways he hadn’t previously imagined. A regular cast of characters forms on the Line. From this sea of voices one caller named “Richie” emerges and pulls Allan in even deeper, much to Marissa’s dismay.&nb to new episodes of REPLACEMENT TEXT early and ad-free by joining Wondery Plus in the Wondery App. - <a href="http rel="noope noreferrer target="_b us by supporting our sponsors!< - Sign up for your free trial at <a href="http rel="noope noreferrer target="_b Chef</stro - Go to <a href="http rel="noope noreferrer target="_b </strong>a use code <strong>ap for $90 off, including free shipping.< Fiends</st - Download Best Fiends FREE in the <a href="http rel="noope noreferrer target="_b App Store</str or <a href="http rel="noope noreferrer target="_b Play</stro - Get $100 off your first month of Talkspace with code <strong>AP at <a href="http rel="noope noreferrer target="_b - Receive 50% off your first Care/Of order with code <strong>ap at <a href="http rel="noope noreferrer target="_b - Get Honey for free at <a href="http rel="noope noreferrer target="_b
+      </descript
+      <itunes:ti Public</it
+      <itunes:ep
+      <itunes:ep
+      <itunes:su as Allan reckons with a frightenin threat, he continues to engage with callers in ways he hadn’t previously imagined. A regular cast of characters forms on the Line. From this sea of voices one caller named “Richie” emerges and pulls Allan in even deeper, much to Marissa’s dismay.  
+
+Listen to new episodes of REPLACEMENT TEXT early and ad-free by joining Wondery Plus in the Wondery App. - https://wo
+
+
+
+
+Support us by supporting our sponsors!
+
+Noom - Sign up for your free trial at Noom.com/A
+
+Green Chef - Go to GreenChef. and use code apology90 for $90 off, including free shipping.
+
+Best Fiends - Download Best Fiends FREE in the Apple App Store or Google Play.
+
+Talkspace - Get $100 off your first month of Talkspace with code APOLOGY at Talkspace.
+
+Care/Of - Receive 50% off your first Care/Of order with code apology50 at TakeCareOf
+
+Honey - Get Honey for free at JoinHoney.
+      <content:e
+        <![CDATA[< as Allan reckons with a frightenin threat, he continues to engage with callers in ways he hadn’t previously imagined. A regular cast of characters forms on the Line. From this sea of voices one caller named “Richie” emerges and pulls Allan in even deeper, much to Marissa’s dismay.&nb to new episodes of REPLACEMENT TEXT early and ad-free by joining Wondery Plus in the Wondery App. - <a href="http rel="noope noreferrer target="_b us by supporting our sponsors!< - Sign up for your free trial at <a href="http rel="noope noreferrer target="_b Chef</stro - Go to <a href="http rel="noope noreferrer target="_b </strong>a use code <strong>ap for $90 off, including free shipping.< Fiends</st - Download Best Fiends FREE in the <a href="http rel="noope noreferrer target="_b App Store</str or <a href="http rel="noope noreferrer target="_b Play</stro - Get $100 off your first month of Talkspace with code <strong>AP at <a href="http rel="noope noreferrer target="_b - Receive 50% off your first Care/Of order with code <strong>ap at <a href="http rel="noope noreferrer target="_b - Get Honey for free at <a href="http rel="noope noreferrer target="_b
+      </content:
+      <guid isPermaLin
+      <pubDate>T 19 Jan 2021 08:30:00 -0000</pub
+      <itunes:ex
+      <itunes:im href="http />
+      <itunes:ke true crime,Bing Worthy Documentar ,Apology Line,true crime,seri killer,soc American Life,Murde York City</itun
+      <itunes:du
+      <enclosure url="https type="audi length="32 />
+    </item>
+    <item>
+      <title>Who Sorry Now? | 1</title>
+      <descripti
+        <![CDATA[< Bridge has only had a premonitio twice in her life: one was on the day in 1981 that she met “Mr. Apology.” As posters for REPLACEMENT TEXT appear all over New York City, callers start to leave messages that confess their deepest secrets and darkest fears. Mr Apology quickly realizes he will have to do more than just sit back and listen.&nb to new episodes of REPLACEMENT TEXT early and ad-free by joining Wondery Plus in the Wondery App. - <a href="http rel="noope noreferrer target="_b us by supporting our sponsors!< - Sign up for your free trial at <a href="http rel="noope noreferrer target="_b Chef</stro - Go to <a href="http rel="noope noreferrer target="_b </strong>a use code <strong>ap for $90 off, including free shipping.< Fiends</st - Download Best Fiends FREE in the <a href="http rel="noope noreferrer target="_b App Store</str or <a href="http rel="noope noreferrer target="_b Play</stro - Get $100 off your first month of Talkspace with code <strong>AP at <a href="http rel="noope noreferrer target="_b - Receive 50% off your first Care/Of order with code <strong>ap at <a href="http rel="noope noreferrer target="_b - Get Honey for free at <a href="http rel="noope noreferrer target="_b
+      </descript
+      <itunes:ti Sorry Now?</itun
+      <itunes:ep
+      <itunes:ep
+      <itunes:su Bridge has only had a premonitio twice in her life: one was on the day in 1981 that she met “Mr. Apology.” As posters for REPLACEMENT TEXT appear all over New York City, callers start to leave messages that confess their deepest secrets and darkest fears. Mr Apology quickly realizes he will have to do more than just sit back and listen. 
+
+Listen to new episodes of REPLACEMENT TEXT early and ad-free by joining Wondery Plus in the Wondery App. - https://wo
+
+
+
+
+Support us by supporting our sponsors!
+
+Noom - Sign up for your free trial at Noom.com/A
+
+Green Chef - Go to GreenChef. and use code apology90 for $90 off, including free shipping.
+
+Best Fiends - Download Best Fiends FREE in the Apple App Store or Google Play.
+
+Talkspace - Get $100 off your first month of Talkspace with code APOLOGY at Talkspace.
+
+Care/Of - Receive 50% off your first Care/Of order with code apology50 at TakeCareOf
+
+Honey - Get Honey for free at JoinHoney.
+      <content:e
+        <![CDATA[< Bridge has only had a premonitio twice in her life: one was on the day in 1981 that she met “Mr. Apology.” As posters for REPLACEMENT TEXT appear all over New York City, callers start to leave messages that confess their deepest secrets and darkest fears. Mr Apology quickly realizes he will have to do more than just sit back and listen.&nb to new episodes of REPLACEMENT TEXT early and ad-free by joining Wondery Plus in the Wondery App. - <a href="http rel="noope noreferrer target="_b us by supporting our sponsors!< - Sign up for your free trial at <a href="http rel="noope noreferrer target="_b Chef</stro - Go to <a href="http rel="noope noreferrer target="_b </strong>a use code <strong>ap for $90 off, including free shipping.< Fiends</st - Download Best Fiends FREE in the <a href="http rel="noope noreferrer target="_b App Store</str or <a href="http rel="noope noreferrer target="_b Play</stro - Get $100 off your first month of Talkspace with code <strong>AP at <a href="http rel="noope noreferrer target="_b - Receive 50% off your first Care/Of order with code <strong>ap at <a href="http rel="noope noreferrer target="_b - Get Honey for free at <a href="http rel="noope noreferrer target="_b
+      </content:
+      <guid isPermaLin
+      <pubDate>T 19 Jan 2021 08:05:00 -0000</pub
+      <itunes:ex
+      <itunes:im href="http />
+      <itunes:ke true crime,Bing Worthy Documentar ,Apology Line,true crime,seri killer,soc American Life,Murde York City</itun
+      <itunes:du
+      <enclosure url="https type="audi length="36 />
+    </item>
+    <item>
+      <title>Int REPLACEMENT TEXT </title>
+      <descripti
+        <![CDATA[< Apology Line Premieres on January 19th, or you can listen right now Ad-free by joining Wondery Plus in the Wondery App.  - <a href="http rel="noope noreferrer target="_b
+      </descript
+      <itunes:ti REPLACEMENT TEXT </itunes:t
+      <itunes:ep
+      <itunes:su Apology Line Premieres on January 19th, or you can listen right now Ad-free by joining Wondery Plus in the Wondery App.  - https://wo
+      <content:e
+        <![CDATA[< Apology Line Premieres on January 19th, or you can listen right now Ad-free by joining Wondery Plus in the Wondery App.  - <a href="http rel="noope noreferrer target="_b
+      </content:
+      <guid isPermaLin
+      <pubDate>T 05 Jan 2021 03:26:59 -0000</pub
+      <itunes:ex
+      <itunes:im href="http />
+      <itunes:ke true crime,Bing Worthy Documentar ,Apology Line,true crime,seri killer,soc American Life,Murde York City</itun
+      <itunes:du
+      <enclosure url="https type="audi length="24 />
+    </item>
+  </channel>
+</rss>

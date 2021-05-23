@@ -30,28 +30,47 @@
       <title>The Apology Line</titl
     </image>
     <item>
-      <title>Won Presents: Spy Affair</ti
+      <title>Won Presents: The Vaping Fix</title
       <descripti
-        <![CDATA[< charismati Russian woman arrives in the US on a mission to improve relations between the two countries, soon makes some powerful friends. But who is Maria Butina?&nb is she working for? As Maria gets closer to the rich&nbsp; connected she also attracts the attention of the FBI. In the politicall charged world of US-Russia relations, everyone has secrets&nb nothing is what it seems. From Wondery, the makers of The Shrink Next Door&nbsp; Death comes SPY AFFAIR a story about deception, appearance Hosted by Celia Aniskovich at <a href="http rel="noope noreferrer target="_b
+        <![CDATA[< young Silicon Valley entreprene set out to rid the world of smoking with an incredible new product. The device stands to disrupt the tobacco industry and make them rich, until it falls into the wrong hands and lives are ruined. From classrooms to hospitals, boardrooms to the Oval Office, what can be done to protect teenagers and is it too late? From Laura Beil, the reporter behind Dr Death and Bad Batch, comes The Vaping Fix, the inside story of the rise of Juul and the making of a crisis.</p to the Vaping Fix: <a href="http rel="noope noreferrer target="_b
       </descript
-      <itunes:ti Presents: Spy Affair</it
+      <itunes:ti Presents: The Vaping Fix</itune
       <itunes:ep
-      <itunes:su charismati Russian woman arrives in the US on a mission to improve relations between the two countries, soon makes some powerful friends. But who is Maria Butina? An is she working for? As Maria gets closer to the rich and connected she also attracts the attention of the FBI. In the politicall charged world of US-Russia relations, everyone has secrets an nothing is what it seems. From Wondery, the makers of The Shrink Next Door and D Death comes SPY AFFAIR a story about deception, appearance Hosted by Celia Aniskovich
+      <itunes:su young Silicon Valley entreprene set out to rid the world of smoking with an incredible new product. The device stands to disrupt the tobacco industry and make them rich, until it falls into the wrong hands and lives are ruined. From classrooms to hospitals, boardrooms to the Oval Office, what can be done to protect teenagers and is it too late? From Laura Beil, the reporter behind Dr Death and Bad Batch, comes The Vaping Fix, the inside story of the rise of Juul and the making of a crisis.
 
-
-
-
-Listen tod at wondery.fm
+Listen to the Vaping Fix: wondery.fm
       <content:e
-        <![CDATA[< charismati Russian woman arrives in the US on a mission to improve relations between the two countries, soon makes some powerful friends. But who is Maria Butina?&nb is she working for? As Maria gets closer to the rich&nbsp; connected she also attracts the attention of the FBI. In the politicall charged world of US-Russia relations, everyone has secrets&nb nothing is what it seems. From Wondery, the makers of The Shrink Next Door&nbsp; Death comes SPY AFFAIR a story about deception, appearance Hosted by Celia Aniskovich at <a href="http rel="noope noreferrer target="_b
+        <![CDATA[< young Silicon Valley entreprene set out to rid the world of smoking with an incredible new product. The device stands to disrupt the tobacco industry and make them rich, until it falls into the wrong hands and lives are ruined. From classrooms to hospitals, boardrooms to the Oval Office, what can be done to protect teenagers and is it too late? From Laura Beil, the reporter behind Dr Death and Bad Batch, comes The Vaping Fix, the inside story of the rise of Juul and the making of a crisis.</p to the Vaping Fix: <a href="http rel="noope noreferrer target="_b
       </content:
       <guid isPermaLin
-      <pubDate>M 29 Mar 2021 07:00:00 -0000</pub
+      <pubDate>T 18 May 2021 07:30:00 -0000</pub
       <itunes:ex
       <itunes:im href="http />
-      <itunes:ke true crime,new york city,Binge Worthy Documentar Line,apolo American Life,socie Crime,SERI KILLER</it
+      <itunes:ke True Crime,new york city,Binge Worthy Documentar Line,Apolo American Life,socie CRIME,Seri killer</it
       <itunes:du
-      <enclosure url="https type="audi length="54 />
+      <enclosure url="https type="audi length="62 />
+    </item>
+    <item>
+      <title>Int Confrontin Columbine<
+      <descripti
+        <![CDATA[< now: <a href="http rel="noope noreferrer target="_b events of April 20th, 1999 shaped our nation and altered the American narrative. One of America’s deadliest school shootings took place in a small town in Colorado, leaving thirteen dead and another twenty-one severely injured. And it was all broadcast over national tv for the nation to see.&nbsp; second season of&nbsp;<e on one of the most prolific tragedies in American history: t Columbine High School massacre. It was a devastatin example of how easily a place of learning, familiarit and peace can descend into a war zone of chaos in a moment, the teenagers present that day are now adults who bear the mental and physical scars of the carnage they lived through.<e Over, a Columbine survivor who is still living with its aftermath and raising her own children in its shadow, confronts many of the realities, questions and myths that surround the massacre to this day. Amy, through her own experience and by speaking with survivors, investigat classmates reporters on the scene and other important voices, brings a first-pers account of the physical, emotional and spiritual journey that comes along with confrontin the worst day of her life.</p>]
+      </descript
+      <itunes:ti Confrontin Columbine<
+      <itunes:ep
+      <itunes:su now: wondery.fm
+
+The events of April 20th, 1999 shaped our nation and altered the American narrative. One of America’s deadliest school shootings took place in a small town in Colorado, leaving thirteen dead and another twenty-one severely injured. And it was all broadcast over national tv for the nation to see. 
+
+The second season of Confron on one of the most prolific tragedies in American history: t Columbine High School massacre. It was a devastatin example of how easily a place of learning, familiarit and peace can descend into a war zone of chaos in a moment, the teenagers present that day are now adults who bear the mental and physical scars of the carnage they lived through. A Over, a Columbine survivor who is still living with its aftermath and raising her own children in its shadow, confronts many of the realities, questions and myths that surround the massacre to this day. Amy, through her own experience and by speaking with survivors, investigat classmates reporters on the scene and other important voices, brings a first-pers account of the physical, emotional and spiritual journey that comes along with confrontin the worst day of her life.</itu
+      <content:e
+        <![CDATA[< now: <a href="http rel="noope noreferrer target="_b events of April 20th, 1999 shaped our nation and altered the American narrative. One of America’s deadliest school shootings took place in a small town in Colorado, leaving thirteen dead and another twenty-one severely injured. And it was all broadcast over national tv for the nation to see.&nbsp; second season of&nbsp;<e on one of the most prolific tragedies in American history: t Columbine High School massacre. It was a devastatin example of how easily a place of learning, familiarit and peace can descend into a war zone of chaos in a moment, the teenagers present that day are now adults who bear the mental and physical scars of the carnage they lived through.<e Over, a Columbine survivor who is still living with its aftermath and raising her own children in its shadow, confronts many of the realities, questions and myths that surround the massacre to this day. Amy, through her own experience and by speaking with survivors, investigat classmates reporters on the scene and other important voices, brings a first-pers account of the physical, emotional and spiritual journey that comes along with confrontin the worst day of her life.</p>]
+      </content:
+      <guid isPermaLin
+      <pubDate>T 04 May 2021 07:00:00 -0000</pub
+      <itunes:ex
+      <itunes:im href="http />
+      <itunes:du
+      <enclosure url="https type="audi length="88 />
     </item>
     <item>
       <title>And The Calls Live On | 7</title>
@@ -119,7 +138,7 @@ Honey - Get Honey for free at JoinHoney.
       <itunes:im href="http />
       <itunes:ke true crime,Bing Worthy Documentar ,Apology Line,true crime,seri killer,soc American Life,Murde York City</itun
       <itunes:du
-      <enclosure url="https type="audi length="32 />
+      <enclosure url="https type="audi length="30 />
     </item>
     <item>
       <title>Mrs Apology | 5</title>
@@ -169,7 +188,7 @@ Honey - Get Honey for free at JoinHoney.
       <itunes:im href="http />
       <itunes:ke true crime,Bing Worthy Documentar ,Apology Line,true crime,seri killer,soc American Life,Murde York City</itun
       <itunes:du
-      <enclosure url="https type="audi length="39 />
+      <enclosure url="https type="audi length="38 />
     </item>
     <item>
       <title>To Catch A Serial Killer | 4</title>
@@ -205,7 +224,7 @@ Honey - Get Honey for free at JoinHoney.
       <itunes:im href="http />
       <itunes:ke true crime,Bing Worthy Documentar ,Apology Line,true crime,seri killer,soc American Life,Murde York City</itun
       <itunes:du
-      <enclosure url="https type="audi length="34 />
+      <enclosure url="https type="audi length="33 />
     </item>
     <item>
       <title>You Dungeon or Mine? | 3</title>
@@ -244,7 +263,7 @@ Honey - Get Honey for free at JoinHoney.
       <itunes:im href="http />
       <itunes:ke true crime,Bing Worthy Documentar ,Apology Line,true crime,seri killer,soc American Life,Murde York City</itun
       <itunes:du
-      <enclosure url="https type="audi length="39 />
+      <enclosure url="https type="audi length="36 />
     </item>
     <item>
       <title>Goi Public | 2</title>
